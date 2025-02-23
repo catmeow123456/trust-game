@@ -1,0 +1,3 @@
+[submodule "funsearch"]
+	path = funsearch
+	url = git@github.com:catmeow123456/funsearch.git

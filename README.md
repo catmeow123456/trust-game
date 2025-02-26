@@ -13,3 +13,6 @@ test of funsearch
 ```bash
 $ nohup python funsearch/run.py > nohup.out 2>&1 &
 ```
+
+## reference
+osfstorage-archive (data): https://osf.io/42b68/
